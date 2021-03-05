@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+![image] (https://github.com/Sakura-RaidenMEI/Sakura-RaidenMEI.github.io/blob/img/1.jpg)<br />
 - Bulleted
 - List
 
